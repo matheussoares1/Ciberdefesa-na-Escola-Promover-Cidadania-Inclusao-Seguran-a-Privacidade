@@ -1,41 +1,105 @@
-# Ciberdefesa-na-Escola-Promover-Cidadania-Inclusao-Seguran-a-Privacidade
+# Ciberdefesa na Escola  
+## Promover Cidadania, Inclusão, Segurança e Privacidade nas Redes de Internet
+
+Projeto extensionista voltado à **Educação Básica (Ensino Médio)**, com foco em **cidadania digital, inclusão digital segura e fundamentos de segurança em redes**, alinhado aos Objetivos de Desenvolvimento Sustentável (ODS).
+
+---
+
+## Informações Gerais
+
+- **Curso:** CST em Redes de Computadores  
+- **Disciplina:** Atividade Extensionista I – Tecnologia Aplicada à Inclusão Digital (Levantamento)  
+- **Setor de Aplicação:** Educação Básica (Ensino Médio)  
+- **ODS Relacionados:**  
+  - ODS 04 – Educação de Qualidade  
+  - ODS 10 – Redução das Desigualdades  
+
+---
 
 ## Objetivos
-1.	Desenvolver e aplicar noções de Cidadania Digital, Ética e Privacidade de Dados em Redes Sociais, capacitando os alunos para identificar e mitigar riscos de Engenharia Social (Phishing) e de exposição excessiva (Oversharing).
-2.	Instruir sobre os fundamentos da Infraestrutura de Redes (componentes, como Roteadores e Firewalls) e suas vulnerabilidades, demonstrando práticas de configuração segura e de proteção em ambientes de rede (públicos e privados).
-3.	Demonstrar de forma prática e ética as principais vulnerabilidades de segurança (como a quebra de senhas fracas e a interceptação em Wi-Fi), utilizando workshops interativos e ambientes controlados para reforçar a importância da Autenticação de Dois Fatores (2FA).
-4.	Conscientizar o público-alvo sobre a importância da Inclusão Digital Segura e promover o Desenho Universal nos materiais de apoio, garantindo que o conhecimento sobre cibersegurança seja acessível a todos, independentemente do nível de instrução ou capacidade.
+
+1. Desenvolver e aplicar noções de **Cidadania Digital, Ética e Privacidade de Dados** em redes sociais, capacitando os alunos a identificar e mitigar riscos de **Engenharia Social (Phishing)** e **exposição excessiva (Oversharing)**.  
+2. Instruir sobre os **fundamentos da infraestrutura de redes** (roteadores, firewalls e redes Wi-Fi) e suas vulnerabilidades, demonstrando práticas de **configuração segura** em ambientes públicos e privados.  
+3. Demonstrar, de forma **prática e ética**, vulnerabilidades comuns de segurança (como senhas fracas e interceptação em Wi-Fi), utilizando **ambientes controlados** e reforçando a importância da **Autenticação em Dois Fatores (2FA)**.  
+4. Conscientizar o público-alvo sobre a **Inclusão Digital Segura**, promovendo o **Desenho Universal** nos materiais educativos, garantindo acessibilidade a diferentes perfis de aprendizagem.
+
+---
 
 ## Metodologia
 
-A metodologia adotada neste projeto possui caráter exploratório, descritivo e educativo, sendo estruturada em etapas sequenciais que permitem o levantamento, a análise e a conscientização do público-alvo, inclusão e segurança no uso das redes de internet. O setor de aplicação corresponde à Educação Básica (Ensino Médio), considerando a necessidade crescente de orientação quanto ao uso seguro, ético e responsável das tecnologias digitais.
-O desenvolvimento do projeto inicia-se com o levantamento inicial, etapa destinada à compreensão do contexto escolar e à identificação preliminar das demandas relacionadas à segurança digital. Em seguida, realiza-se a definição do setor de aplicação, delimitando o público-alvo e o ambiente onde as ações extensionistas serão desenvolvidas, garantindo o alinhamento entre os objetivos do projeto e a realidade da instituição educacional.
-Fluxograma 1 - Etapa 1: Identificação do público alvo.
- <img width="1004" height="53" alt="image" src="https://github.com/user-attachments/assets/b1aadc08-5643-46ef-beab-90fabccdb892" />
+O projeto adota uma abordagem **exploratória, descritiva e educativa**, estruturada em etapas sequenciais que permitem o levantamento, a análise e a conscientização do público-alvo quanto ao uso seguro, ético e responsável das redes de internet.
 
+### Etapa 1 – Identificação do Público-Alvo
 
-Na sequência, é conduzido um diagnóstico do nível de conhecimento dos estudantes sobre temas como privacidade de dados, uso de redes sociais, engenharia social e segurança em redes, por meio de observação orientada, questionários simples ou diálogos estruturados. Paralelamente, ocorre o planejamento das ações educativas, no qual são definidos os conteúdos, estratégias pedagógicas e recursos necessários para a execução das atividades extensionistas.
-Fluxograma 2 - Etapa 2: Identificação e ambientação sobre conhecimentos prévios do público alvo.
-<img width="1004" height="41" alt="image" src="https://github.com/user-attachments/assets/9ab78da1-145a-4334-b7ff-e0e2421e0ce6" />
+Levantamento inicial para compreensão do contexto escolar e identificação das demandas relacionadas à segurança digital.
 
-Posteriormente, procede-se à elaboração de materiais educativos acessíveis, tais como apresentações, conteúdos visuais e exemplos práticos, respeitando os princípios do Desenho Universal, de modo a assegurar a inclusão e a compreensão por diferentes perfis de aprendizagem. Esses materiais servem de apoio para a etapa de execução das atividades extensionistas, que envolve workshops, palestras e demonstrações práticas realizadas em ambientes controlados, sempre com finalidade educativa e ética.
-Fluxograma 2 - Etapa 3: Seleção do conteúdo acessível a ser apresentado.
- <img width="1004" height="92" alt="image" src="https://github.com/user-attachments/assets/7c5f8389-3e10-4536-8741-a9d29a56ac8e" />
+![Fluxograma 1 – Identificação do público-alvo](https://github.com/user-attachments/assets/b1aadc08-5643-46ef-beab-90fabccdb892)  
+*Fonte: Elaborado pelo autor*
 
+---
 
-Após a execução das atividades, desenvolvem-se ações voltadas à conscientização e inclusão digital, reforçando conceitos de cidadania digital, privacidade, proteção de dados e uso seguro das redes de internet. Em seguida, é realizada a avaliação dos resultados, por meio da coleta de feedback dos participantes e da análise do impacto das ações no nível de conhecimento e percepção dos estudantes.
-Por fim, ocorre o registro e a análise dos resultados obtidos, consolidando as informações levantadas ao longo do projeto e possibilitando reflexões para aprimoramento e continuidade das ações em etapas futuras. Dessa forma, a metodologia proposta estabelece um caminho lógico e estruturado do início ao encerramento do projeto, garantindo coerência entre objetivos, atividades e resultados esperados.
+### Etapa 2 – Diagnóstico de Conhecimentos Prévios
 
-## Resultados Esperados/Obtidos
-Com a aplicação do projeto “Ciberdefesa na Escola: Promover Cidadania, Inclusão, Segurança e Privacidade nas Redes de Internet”, espera-se promover impactos positivos no público-alvo, contribuindo para a formação de estudantes mais conscientes, críticos e responsáveis no uso das tecnologias digitais.
-Espera-se, inicialmente, a ampliação do conhecimento dos estudantes sobre cidadania digital, ética no uso da internet e privacidade de dados, possibilitando a identificação de riscos relacionados à engenharia social, como golpes de phishing, e à exposição excessiva de informações pessoais nas redes sociais. Como resultado, prevê-se uma mudança de comportamento quanto ao compartilhamento de dados e à adoção de práticas mais seguras no ambiente digital.
-Outro resultado esperado é o entendimento básico sobre a infraestrutura de redes e seus componentes, como roteadores, firewalls e redes Wi-Fi, bem como a conscientização sobre suas vulnerabilidades. A partir das atividades educativas, os estudantes deverão compreender a importância da configuração segura de redes e da utilização de mecanismos de proteção, como senhas fortes e autenticação em dois fatores (2FA).
-Também se espera fortalecer a conscientização sobre inclusão digital segura, garantindo que os conteúdos apresentados sejam acessíveis a diferentes perfis de aprendizagem, respeitando os princípios do Desenho Universal. Dessa forma, o projeto busca reduzir desigualdades no acesso à informação sobre cibersegurança e promover a participação ativa de todos os estudantes.
-Por fim, espera-se obter dados qualitativos e quantitativos a partir do levantamento diagnóstico e do feedback dos participantes, permitindo avaliar o nível de conhecimento antes e após as ações extensionistas. Esses resultados servirão como base para o aprimoramento do projeto e para a continuidade das atividades nas etapas posteriores da Atividade Extensionista.
+Avaliação do nível de conhecimento dos estudantes sobre:
+- Privacidade de dados  
+- Uso de redes sociais  
+- Engenharia social  
+- Segurança em redes  
+
+Realizada por meio de observação orientada, questionários simples e diálogos estruturados.
+
+![Fluxograma 2 – Diagnóstico de conhecimentos prévios](https://github.com/user-attachments/assets/9ab78da1-145a-4334-b7ff-e0e2421e0ce6)  
+*Fonte: Elaborado pelo autor*
+
+---
+
+### Etapa 3 – Seleção e Elaboração de Conteúdos Acessíveis
+
+Produção de materiais educativos (apresentações, conteúdos visuais e exemplos práticos), respeitando os princípios do **Desenho Universal**, garantindo acessibilidade e inclusão.
+
+![Fluxograma 3 – Seleção de conteúdo acessível](https://github.com/user-attachments/assets/7c5f8389-3e10-4536-8741-a9d29a56ac8e)  
+*Fonte: Elaborado pelo autor*
+
+---
+
+### Etapas Futuras
+
+- Execução das atividades extensionistas (workshops, palestras e demonstrações práticas)  
+- Conscientização sobre cidadania digital e segurança da informação  
+- Avaliação dos resultados por meio de feedback qualitativo e quantitativo  
+- Registro e análise dos dados para melhoria contínua do projeto  
+
+---
+
+## Resultados Esperados
+
+- Ampliação do conhecimento sobre **cidadania digital, ética e privacidade de dados**  
+- Redução de comportamentos de risco relacionados ao compartilhamento excessivo de informações  
+- Compreensão básica sobre **infraestrutura de redes e suas vulnerabilidades**  
+- Adoção de boas práticas de segurança, como **senhas fortes e 2FA**  
+- Fortalecimento da **inclusão digital segura**, reduzindo desigualdades no acesso à informação  
+- Geração de dados diagnósticos para embasar as próximas etapas da atividade extensionista  
+
+---
 
 ## Considerações Finais
-A realização desta etapa do projeto extensionista possibilitou importantes aprendizados relacionados ao planejamento, levantamento e estruturação das ações extensionistas, reforçando a importância da organização metodológica antes da execução prática. Nesta fase, foi possível compreender o papel da extensão universitária como instrumento de aproximação entre a instituição de ensino superior e a comunidade, mesmo antes da aplicação direta das atividades.
-Um dos principais aprendizados obtidos foi a identificação da relevância da cidadania digital e da segurança da informação no contexto da educação básica, evidenciando a necessidade de ações educativas voltadas ao uso ético, responsável e seguro das redes de internet. O levantamento inicial permitiu reconhecer lacunas no conhecimento do público-alvo, reforçando a pertinência do tema proposto.
-Outro aprendizado significativo refere-se à necessidade de adequação da linguagem técnica ao público-alvo. Durante o planejamento das ações, tornou-se evidente que conceitos relacionados à infraestrutura de redes, privacidade de dados e cibersegurança devem ser apresentados de forma acessível e didática, a fim de garantir melhor compreensão e engajamento dos estudantes.
-Além disso, esta etapa contribuiu para o entendimento da importância da inclusão digital segura, destacando a necessidade de desenvolver materiais educativos acessíveis, baseados nos princípios do Desenho Universal, considerando diferentes perfis de aprendizagem e níveis de conhecimento. Além de que para fundamentação teórica e prática, foram utilizadas formações externas como as trilhas de “Analista de Cibersegurança Júnior”, “Técnico em Redes” e “Conscientização Digital” oferecidos pela Cisco Network Academy, e as Certificações em “Cloud Foundations” da AWS Academy Graduate e “Data Analytics Professional” Oferecido pela Google e Coursera para aprimoramento do conhecimento e triagem dos dados coletados nessa atividade.
-Como limitação desta etapa, destaca-se a ausência da execução prática das atividades, uma vez que esta será desenvolvida na próxima fase do projeto, correspondente à Atividade Extensionista II. No entanto, essa limitação não compromete os objetivos desta etapa, pois o planejamento realizado fornece uma base sólida para a implementação futura das ações extensionistas.
+
+Esta etapa do projeto possibilitou importantes aprendizados relacionados ao **planejamento, levantamento e estruturação de ações extensionistas**, reforçando a relevância da organização metodológica antes da execução prática.
+
+O levantamento evidenciou a importância da **cidadania digital e da segurança da informação** no contexto da educação básica, bem como a necessidade de **adequação da linguagem técnica** ao público-alvo para garantir melhor compreensão e engajamento.
+
+Também foi possível compreender a relevância da **inclusão digital segura**, destacando a necessidade de materiais acessíveis baseados no **Desenho Universal**, considerando diferentes níveis de conhecimento e perfis de aprendizagem.
+
+Como base teórica e prática, foram utilizadas formações externas, como:
+- Trilhas da **Cisco Networking Academy** (Analista de Cibersegurança Júnior, Técnico em Redes e Conscientização Digital)  
+- **AWS Academy Graduate – Cloud Foundations**  
+- **Google Data Analytics Professional (Coursera)**  
+
+Como limitação desta etapa, destaca-se a **ausência da execução prática**, prevista para a **Atividade Extensionista II**. Contudo, o planejamento realizado fornece uma base sólida para a implementação futura das ações extensionistas.
+
+---
+
+## Status do Projeto
+
+**Em andamento** – Etapa de Levantamento concluída  
+Próxima fase: **Atividade Extensionista II – Projeto**
